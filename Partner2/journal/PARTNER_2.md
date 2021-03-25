@@ -14,6 +14,7 @@ like -> [X]
 - [ ] Look for the file `github.md` and open it
   - [ ] Add under questions something that you found difficult
   - [ ] Save the file `Control/Command+s` 
+  
 - [ ] Create a new Markdown file inside the folder`Journal` called `shopping_list.md` 
   - [ ] Create a first level header `FOOD_LIST`
   - [ ] Create a smaller header `TO_BUY`
@@ -23,11 +24,13 @@ like -> [X]
   - [ ] Mark some text as *italic*
   - [ ] The most important ingredient mark it as **bold**
   - [ ] Save the content of this file with `Control/Command+s`
+  
 - [ ] Create a new folder called `Partner2` 
   - [ ] and inside create another journal folder
   - [ ] and copy the file `PARTNER_2.md` inside the Partner2 folder
   - [ ] Download a photo of your favourite animal and copy it inside the folder.
-- [ ] Search globally for `<name>` words and replace them with your name
+  
+- [ ] Search globally for `Rania` words and replace them with your name
 - [ ] (Optional) In books you have a pdf -> look for an extension that allows you to see this file and install it in this folder or through the extensions :) maybe you need to reload your VSCode
 ## Let's add the changes
 - [ ] `git status`
